@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">projekat1</string>
+    <string name="prikaziButtonMain">prikazi</string>
+    <string name="LocationText">Lokacija za prikaz vremenske prognoze:</string>
+    <string name="weatherForecastText">Weather Forecast</string>
+    <string name="temperaturaButton">temperatura</string>
+    <string name="izlazakZalazakButton">Izlazak i zalazak sunca</string>
+    <string name="vetarButton">Vetar</string>
+    <string name="izlazakText">Izlazak sunca: 06:47</string>
+    <string name="zalazakText">Zalazak sunca: 17:45</string>
+    <string name="brzinaText">Brzina vetra: 4.1</string>
+    <string name="pravacText">Pravac: N</string>
+    <string name="jedinicaText">Jedinica:</string>
+    <string name="temperaturaText">Temperatura: 11</string>
+    <string name="pritisakText">Pritisak: 1000</string>
+    <string name="vlaznostText">Vlaznost vazduha: 44</string>
+    <string name="chooseCity">Izaberi grad:</string>
+    <string name="unesi_novi_grad">unesi novi grad</string>
+    <string name="bg">Belgrade</string>
+    <string name="rome">Rome</string>
+    <string name="london">London</string>
+    <string name="izaberiBtn">izaberi</string>
+    <string name="vecpostoji">Grad vec postoji!</string>
+    <string name="prazno">Nista niste uneli!</string>
+    <string name="poslednja">Poslednja nedelja:</string>
+    <string name="min_temp">Minimalna temperatura:</string>
+    <string name="max_temp">Maksimalna temperatura:</string>
+    <string name="stat">STATISTIKA</string>
+    <string name="ned">Nedelja</string>
+    <string name="sub">Subota</string>
+    <string name="pet">Petak</string>
+    <string name="cet">Cetvrtak</string>
+    <string name="sre">Sreda</string>
+    <string name="uto">Utorak</string>
+    <string name="pon">Ponedeljak</string>
+
+</resources>
